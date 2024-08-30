@@ -110,7 +110,7 @@ const Footer = () => {
                       </svg>
 
                       <span className="flex-1 text-gray-700">
-                        rohit@gmail.com
+                        team@gmail.com
                       </span>
                     </a>
                   </li>
@@ -161,7 +161,7 @@ const Footer = () => {
                     </svg>
 
                     <address className="-mt-0.5 flex-1 not-italic text-gray-700">
-                      Team Omnipresent <br />
+                      TEAM OMNIPRESENT <br />
                       VIT, Pune,
                     </address>
                   </li>
@@ -173,7 +173,7 @@ const Footer = () => {
           <div className="border-t border-gray-100 pt-6">
             <div className="text-center sm:flex sm:justify-between sm:text-left">
               <p className="mt-4 text-sm text-gray-500 sm:order-first sm:mt-0">
-                &copy; 2023 Predictive.Ai
+                &copy; 2024 AquaInsights.Ai
               </p>
             </div>
           </div>

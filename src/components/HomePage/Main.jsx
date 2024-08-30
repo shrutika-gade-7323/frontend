@@ -20,14 +20,15 @@ const Main = () => {
             <h1 className="text-[3.4em] py-5 text-dark-brown font-poppins-700">
             जलं रक्षामः, जीवनं रक्षामः।
             </h1>
-            <div className="text-[1.6em] font-bold pb-2">Anticipating Wells, Ensuring Water</div>
+            <div className="text-[1.6em] font-bold pb-2">Forecasting Groundwater, Shaping Futures</div>
             {/* {t('description')} */}
             <p className="text-justify font-montserrat-500 mb-5 opacity-90">
-              Explore smart well construction with Predictive.Ai! Our advanced
-              technology guides you in choosing the best location, depth, and
-              drilling method for a sustainable and efficient water supply. Get
-              accurate insights on water quantity, quality, and make smart
-              decisions for the future of water management. Start today!
+              Unlock the potential of data-driven water management with AquaInsights.Ai!
+              Our platform is designed for accessibility, allowing users to obtain predictions
+              and insights at any time and from anywhere. Whether you're a researcher, policymaker, 
+              or water resource manager, our application provides the tools you need to make informed
+              decisions for sustainable groundwater management. Join us in shaping the future of water resource management. 
+              Start using Ground Water Level Predictor today!
             </p>
             <div className="my-10">
               <Link
@@ -103,7 +104,7 @@ const Main = () => {
             </div>
             <div className="lg:w-[50%]">
               <p className="text-md text-gray-700 text-justify opacity-90">
-                Our groundbreaking AI-powered well system transforms water
+                Our groundbreaking Ground Water Level Predictor transforms water
                 access. By utilizing advanced technology, it ensures reliable,
                 efficient, and sustainable clean water distribution. This
                 innovative solution addresses water scarcity challenges,
