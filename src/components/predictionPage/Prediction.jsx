@@ -269,7 +269,7 @@ const Prediction = () => {
           </div>
 
           <iframe
-            src="src\assets\cluster_map2.html"
+            src="src\assets\cluster_map.html"
             frameBorder="0"
             className="w-1/2"
           ></iframe>

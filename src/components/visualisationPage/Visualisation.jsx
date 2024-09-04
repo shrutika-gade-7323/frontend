@@ -6,7 +6,7 @@ const Visualisation = () => {
   const api = "https://northenmed.com/sih/maps/"
 
   const [mapType, setMapType] = useState(
-    "https://northenmed.com/sih/maps/cluster_map2.html"
+    "https://northenmed.com/sih/maps/cluster_map.html"
   );
 
 
@@ -22,7 +22,7 @@ const Visualisation = () => {
           <nav>
             <div
               onClick={() =>
-                setMapType(api + "marker_cluster_map2.html")
+                setMapType(api + "marker_cluster_map.html")
               }
               className="flex items-center px-4 py-2 text-white bg-gray-900"
             >
@@ -56,7 +56,7 @@ const Visualisation = () => {
             </div>
             <div
               onClick={() =>
-                setMapType(api+"marker_cluster_map2.html")
+                setMapType(api+"marker_cluster_map.html")
               }
               className="flex items-center px-4 py-2 mt-2 text-gray-300  hover:bg-gray-600 hover:text-white"
             >
