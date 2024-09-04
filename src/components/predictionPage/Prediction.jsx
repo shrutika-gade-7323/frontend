@@ -72,7 +72,7 @@ const Prediction = () => {
   // };
 
   const api =
-    "https://pranavsangave.pythonanywhere.com/" + "analyze_location" + "/";
+    "https://vrd2004.pythonanywhere.com/" + "analyze_location" + "/";
 
   const handleFormSubmit = async () => {
     try {
