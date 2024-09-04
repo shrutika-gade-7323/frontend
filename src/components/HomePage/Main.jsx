@@ -84,7 +84,7 @@ const Main = () => {
             <div className="w-[50%] p-2 z-20">
               <iframe
                 className="rounded-md"
-                src="https://northenmed.com/sih/maps/cluster_map.html"
+                src="https://northenmed.com/sih/maps/cluster_map2.html"
                 loading="lazy"
                 width="100%"
                 height="500px"
