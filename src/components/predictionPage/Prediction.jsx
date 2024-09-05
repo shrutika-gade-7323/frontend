@@ -76,10 +76,10 @@ const Prediction = () => {
 
   const handleFormSubmit = async () => {
     try {
-      const threshold = await callThres();
+      //const threshold = await callThres();
 
       const response = await callApi(
-        api + latitude + "/" + longitude + "/" + threshold,
+        api + latitude + "/" + longitude + "/" + 4,
         {}
       );
       console.log(response);
